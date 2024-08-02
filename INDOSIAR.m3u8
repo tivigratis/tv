@@ -1,9 +1,7 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:3
-#EXT-X-ALLOW-CACHE:YES
-#EXT-X-TARGETDURATION:10
-#EXTVLCOPT:http-reconnect=true
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
 #EXTVLCOPT:network-caching=10000
-#EXTINF:10.000000,
-https://ktpremium.xyz:2095/live/yv2268/22681081/73617.ts
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:1,
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1845.ts
